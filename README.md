@@ -11,8 +11,6 @@
 
 # Debloated10
 
-[![Downloads][downloads-badge]][releases]
-
 Debloated10 is a completely **debloated** Windows 10.
 
 Most of the Windows Apps (Store Apps) are removed.
