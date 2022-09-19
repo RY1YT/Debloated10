@@ -27,7 +27,6 @@ Most of the Windows Apps (Store Apps) are removed.
 ### *Step 1: Get the ISO*
 
 You just need to download the ISO from the releases tab or here [![Downloads][downloads-badge]][releases]
-<details>
 
 ### *Step 2: Flash the ISO*
 You can flash ISO files to a USB Drive with Rufus (Windows only) or Balena Etcher (Windows, Mac, Linux).
@@ -37,7 +36,6 @@ Also for Mac and Linux there is Balena Etcher a great alternative to Rufus for M
 
 [Rufus Releases](https://github.com/pbatard/rufus/releases)
 [Etcher Download](https://www.balena.io/etcher/)
-</details>
 
 ## Use it for your own Custom ISO
 
